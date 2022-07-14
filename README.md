@@ -23,3 +23,4 @@ Some of my favorite projects from each section will be briefly described below. 
 ## Time Series Analysis
 
 ## SQL Project
+
