@@ -3,7 +3,7 @@
 There are various projects that I worked on during my time at Springboard. 
 
 We worked on the following topics:
-- [Data Science Pipeline](https://github.com/naturesbless/SpringboardMay2022/tree/main/Data%20Science%20Pipeline)
+- [Data Science Pipeline](/Data%20Science%20Pipeline)
 - [Regression Algorithms](https://github.com/naturesbless/SpringboardMay2022/tree/main/Regression%20Algorithm%20Practice)
 - [Clustering Algorithms ](https://github.com/naturesbless/SpringboardMay2022/tree/main/Clustering%20Algorithm%20Practice)
 - [Decision Tree Algorithms ](https://github.com/naturesbless/SpringboardMay2022/tree/main/Tree%20Classifiers)
