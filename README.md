@@ -38,7 +38,7 @@ In the [k-means project](https://github.com/naturesbless/SpringboardMay2022/tree
 [![K-means silhoeutte plot](https://github.com/naturesbless/SpringboardMay2022/blob/main/Images/kmeans.png)](https://github.com/naturesbless/SpringboardMay2022/tree/main/Clustering%20Algorithm%20Practice/K-Means%20Clustering)
 
 ## Decision Tree Algorithms
-
+This folder focuses all on decision tree algorithms! From standard decision trees to gradient boosting and even ensemble methods like random forest. We go through the foundations of decision tree algorithms and their motivations.
 
 ## Time Series Analysis
 
