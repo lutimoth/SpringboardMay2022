@@ -21,7 +21,7 @@ The [**London Borough**](https://github.com/naturesbless/SpringboardMay2022/tree
 
 One of my favorite things was the ability to use some data visualization to explore our data.
 
-![Data Pipeline Image](https://github.com/naturesbless/SpringboardMay2022/blob/6067252ed9fe4353be602358a5de44b30ddfca65/Images/datapipeline.png)
+[![Data Pipeline Image](https://github.com/naturesbless/SpringboardMay2022/blob/6067252ed9fe4353be602358a5de44b30ddfca65/Images/datapipeline.png)](https://github.com/naturesbless/SpringboardMay2022/tree/main/Data%20Science%20Pipeline/LondonBoroughs){:target="_blank"}
 
 ## Regression Algorithms
 This folder focuses on projects focused on regression analysis. Presently, we have explored linear and logistic regression. Of these two projects, I think the linear regression case study was my favorite.
