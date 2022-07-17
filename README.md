@@ -17,15 +17,18 @@ Some of my favorite projects from each section will be briefly described below. 
 ## Data Science Pipeline
 This folder is designed to contain general projects related to the data science pipeline such as exploring APIs, creating presentations, and the fundamental steps in data science.
 
-The London Borough case study was my favorite as it was one of the first forays I made into data science. We analyzed data from the London boroughs and did basic analysis. Within this folder we also performed some API calls on the NASDAQ API and explored that data on a surface level.
+The [**London Borough**](https://github.com/naturesbless/SpringboardMay2022/tree/main/Data%20Science%20Pipeline/LondonBoroughs) case study was my favorite as it was one of the first forays I made into data science. We analyzed data from the London boroughs and did basic analysis. Within this folder we also performed some API calls on the NASDAQ API and explored that data on a surface level.
 
 One of my favorite things was the ability to use some data visualization to explore our data.
 
 ![Data Pipeline Image](https://github.com/naturesbless/SpringboardMay2022/blob/6067252ed9fe4353be602358a5de44b30ddfca65/Images/datapipeline.png)
 
 ## Regression Algorithms
+This folder focuses on projects focused on regression analysis. Presently, we have explored linear and logistic regression. Of these two projects, I think the linear regression case study was my favorite.
 
+We explored the Red Wine database and created multiple linear regression modlels. This gave me my first foray into exploring adjusting models and understanding the process of performing analysis. In each case study we went through the steps of loading, cleaning, visualizing the data, and tuning the models after testing them.
 
+![Linear Regression Image](https://github.com/naturesbless/SpringboardMay2022/blob/main/Images/linearregression.png) 
 
 ## Clustering Algorithms
 
