@@ -8,8 +8,9 @@ We worked on the following topics:
 - [Clustering Algorithms ](https://github.com/naturesbless/SpringboardMay2022/tree/main/Clustering%20Algorithm%20Practice)
 - [Decision Tree Algorithms ](https://github.com/naturesbless/SpringboardMay2022/tree/main/Tree%20Classifiers)
 - [Time Series Analysis ](https://github.com/naturesbless/SpringboardMay2022/tree/main/TimeSeries_CowboysCigarettesCaseStudy)
-- [SQL Project](https://github.com/naturesbless/SpringboardMay2022/tree/main/SQLCaseStudy)
 - [Hyperparameter Tuning](https://github.com/naturesbless/SpringboardMay2022/tree/main/Hyperparameter%20Tuning%20Practice)
+- [SQL Project](https://github.com/naturesbless/SpringboardMay2022/tree/main/SQLCaseStudy)
+
 
 Some of my favorite projects from each section will be briefly described below. Each page will have a more detailed readme on each of the individual projects.
 
@@ -46,6 +47,22 @@ My favorite of these was definitely the [Random Forest classifier case study](ht
 
 
 ## Time Series Analysis
+Within this folder is a singular [time series analysis study](https://github.com/naturesbless/SpringboardMay2022/tree/main/TimeSeries_CowboysCigarettesCaseStudy). We look at creating a sales forecast using existing data. This case study taught the basics of TSA when assessing the data and model. We consider seasonality, stationarity, and forecasting with various ARIMA models. 
+
+This case study needs a bit more further work but lays the groundwork for loosely understanding TSA. 
+
+[![TSA](https://github.com/naturesbless/SpringboardMay2022/blob/main/Images/tsa.png)](https://github.com/naturesbless/SpringboardMay2022/tree/main/TimeSeries_CowboysCigarettesCaseStudy)
+
+
+## Hyperparamater Tuning
+An important part of any data science project requires understanding the hyper-parameters and parameters that impact a machine learning model. WIthin this folder, we look at projects which focus on hyperparamter tuning such as Grid Search and Bayesian Optimization.
+
+Of these two, [Bayesian Optimization](https://github.com/naturesbless/SpringboardMay2022/tree/main/Hyperparameter%20Tuning%20Practice/Bayesian%20Optimization%20Case%20Study) was my personal favorite. While slightly more complicated to implement it offers a far more robust and thorough understanding of hyperparameter tuning than GridSearch. 
+
+[![Bayesian Optimization](https://github.com/naturesbless/SpringboardMay2022/blob/main/Images/bayesian.png)](https://github.com/naturesbless/SpringboardMay2022/tree/main/Hyperparameter%20Tuning%20Practice/Bayesian%20Optimization%20Case%20Study)
 
 ## SQL Project
+One of the most vital skills for any data scientist is knowing how to use SQL. Within this [SQL project](https://github.com/naturesbless/SpringboardMay2022/tree/main/SQLCaseStudy), we perform SQL Queries in both a RDMS like MySQL but also how to create an engine within Python and perform SQL queries within Python. 
 
+In the SQL Project you will find not only a notebook with the SQL queries but also the SQL database files that were used to store the SQL queries.
+[![SQL](https://github.com/naturesbless/SpringboardMay2022/blob/main/Images/sql.png)](https://github.com/naturesbless/SpringboardMay2022/tree/main/SQLCaseStudy)
