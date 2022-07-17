@@ -40,6 +40,11 @@ In the [k-means project](https://github.com/naturesbless/SpringboardMay2022/tree
 ## Decision Tree Algorithms
 This folder focuses all on decision tree algorithms! From standard decision trees to gradient boosting and even ensemble methods like random forest. We go through the foundations of decision tree algorithms and their motivations.
 
+My favorite of these was definitely the [Random Forest classifier case study](https://github.com/naturesbless/SpringboardMay2022/tree/main/Tree%20Classifiers/RandomForest%20Covid%20Case%20Study_06302020). This covered a more complicated ensemble method which really shows off the power of decision trees. The case study not only showed how to create a random forest model but also how to analyze its performance. We used confusion matrices to understand performance. It also showed ways to look at variable importance.
+
+[![Confusion matrix](https://github.com/naturesbless/SpringboardMay2022/blob/main/Images/forestconfmatrix.png)](https://github.com/naturesbless/SpringboardMay2022/tree/main/Tree%20Classifiers/RandomForest%20Covid%20Case%20Study_06302020)
+
+
 ## Time Series Analysis
 
 ## SQL Project
