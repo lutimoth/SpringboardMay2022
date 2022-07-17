@@ -4,12 +4,12 @@ There are various projects that I worked on during my time at Springboard.
 
 We worked on the following topics:
 - [Data Science Pipeline](/Data%20Science%20Pipeline)
-- [Regression Algorithms](https://github.com/naturesbless/SpringboardMay2022/tree/main/Regression%20Algorithm%20Practice)
-- [Clustering Algorithms ](https://github.com/naturesbless/SpringboardMay2022/tree/main/Clustering%20Algorithm%20Practice)
-- [Decision Tree Algorithms ](https://github.com/naturesbless/SpringboardMay2022/tree/main/Tree%20Classifiers)
-- [Time Series Analysis ](https://github.com/naturesbless/SpringboardMay2022/tree/main/TimeSeries_CowboysCigarettesCaseStudy)
-- [Hyperparameter Tuning](https://github.com/naturesbless/SpringboardMay2022/tree/main/Hyperparameter%20Tuning%20Practice)
-- [SQL Project](https://github.com/naturesbless/SpringboardMay2022/tree/main/SQLCaseStudy)
+- [Regression Algorithms](/Regression%20Algorithm%20Practice)
+- [Clustering Algorithms ](/Clustering%20Algorithm%20Practice)
+- [Decision Tree Algorithms ](/Tree%20Classifiers)
+- [Time Series Analysis ](/TimeSeries_CowboysCigarettesCaseStudy)
+- [Hyperparameter Tuning](/Hyperparameter%20Tuning%20Practice)
+- [SQL Project](/SQLCaseStudy)
 
 
 Some of my favorite projects from each section will be briefly described below. Each page will have a more detailed readme on each of the individual projects.
